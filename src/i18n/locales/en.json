@@ -1,0 +1,21 @@
+{
+	"userRegister": "User registered successfully",
+	"userAlreadyExists": "User already exists",
+	"invalidOtp": "Invalid OTP",
+	"otpHasBeenExpired": "OTP has been expired",
+	"otpSendSuccessfully": "OTP send successfully",
+	"userLoggedIn": "User logged in successfully",
+	"userVerified": "User verified successfully",
+	"passwordChangedSuccessfully": "Password changed successfully",
+	"emailOrPasswordWrong": "You have entered an invalid email address or password. Please try again",
+	"userNotFound": "User not found",
+	"unAuthorizedLogin": "Unauthorized, Please login",
+	"somethingWentWrongPleaseTryAgain": "Server is not responding. Please try again later!",
+	"tokenExpired": "Token expired",
+	"projectAdded": "projectAdded",
+	"validImage": "validImage",
+	"projectNotFound": "projectNotFound",
+	"projectUpdated": "projectUpdated",
+	"projectListed": "projectListed",
+	"projectFound": "projectFound"
+}
